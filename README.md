@@ -12,3 +12,8 @@ Funds:
   Analysis
   Publication and Sharing
   
+  
+  
+  
+  Draw.io can open the .xml file (Didn't open via URL for me, but if saved locally).
+  labsetup. jpg is what the image looks like.
